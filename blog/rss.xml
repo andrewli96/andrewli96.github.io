@@ -4,10 +4,25 @@
         <title>AndrewLi96 Blog</title>
         <link>https://andrewli96.github.io/blog</link>
         <description>AndrewLi96 Blog</description>
-        <lastBuildDate>Thu, 30 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[New Station Setups]]></title>
+            <link>https://andrewli96.github.io/blog/NewStationSetups</link>
+            <guid>https://andrewli96.github.io/blog/NewStationSetups</guid>
+            <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[night-view]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="night-view" src="https://andrewli96.github.io/assets/images/night-view-3d18323ecae7bf1c815d7a05b1ac5e97.png" width="3840" height="2160" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="background">Background<a href="https://andrewli96.github.io/blog/NewStationSetups#background" class="hash-link" aria-label="Direct link to Background" title="Direct link to Background">​</a></h2>
+<p>由于最近在考虑买一台Mac Mini作为家用服务器/旁路由，新年之际也准备买一台16英寸macbook pro（准备学习视频/图片编辑）更新一下我的laptop。由于最近买新机的需求很强烈，在老机器上的<code>工作环境</code>已经非常舒服了，所以在思考如何能快速迁移整个工作环境。</p>
+<p>TimeMachine當然必不可少，可是动则400-500G的内容，每次backup也非常耗时，而且不太可能restore到所有机器上。所以想借这个机会整理一下新机器必备的工具和App，包括安装方式和注意的坑，这样每次买新机都能快速set up完整的环境啦。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-be-continued">To Be Continued<a href="https://andrewli96.github.io/blog/NewStationSetups#to-be-continued" class="hash-link" aria-label="Direct link to To Be Continued" title="Direct link to To Be Continued">​</a></h2>
+<p>... 突然要去趟4s店，回来继续写 //TODO</p>]]></content:encoded>
+            <category>tech</category>
+            <category>macos</category>
+        </item>
         <item>
             <title><![CDATA[Intro]]></title>
             <link>https://andrewli96.github.io/blog/Introduction</link>
