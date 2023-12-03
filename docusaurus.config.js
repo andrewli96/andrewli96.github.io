@@ -45,14 +45,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/andrewli96/andrewli96.github.io/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/andrewli96/andrewli96.github.io/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -75,9 +75,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'tech',
             position: 'left',
-            label: 'Docs',
+            label: 'Tech',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'music',
+            position: 'left',
+            label: 'Music',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'others',
+            position: 'left',
+            label: 'Others',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -90,15 +102,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Docs',
-                to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
